@@ -259,33 +259,33 @@ h1,h2,h3,h4,h5,h6{
 .section-gallery__image-1 {
     width: 773px;
     height: 555px;
-    background-image: url('/images/gallery_1.png');
+    background-image: url('../images/gallery_1.png');
     
 }
 
 .section-gallery__image-2 {
     width: 373px;
     height: 263px;
-    background-image: url('/images/gallery_2.png');
+    background-image: url('../images/gallery_2.png');
     
 }
 
 .section-gallery__image-3 {
     width: 373px;
     height: 263px;
-    background-image: url('/images/gallery_3.png');
+    background-image: url('../images/gallery_3.png');
 }
 
 .section-gallery__image-4 {
     width: 572px;
     height: 402px;
-    background-image: url('/images/gallery_4.png');
+    background-image: url('../images/gallery_4.png');
 }
 
 .section-gallery__image-5 {
     width: 572px;
     height: 402px;
-    background-image: url('/images/gallery_5.png');
+    background-image: url('../images/gallery_5.png');
 }
 
 .section-gallery__btn {
@@ -305,7 +305,7 @@ h1,h2,h3,h4,h5,h6{
 .section-subscribe {
     width:100%;
     height:500px;
-    background-image: url('/images/subscribe-bg.png');
+    background-image: url('../images/subscribe-bg.png');
     padding: 146px 164px;
 }
 
@@ -384,15 +384,15 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .section-blog__image-1 {
-    background-image: url('/images/blog-img1.png');
+    background-image: url('../images/blog-img1.png');
 }
 
 .section-blog__image-2 {
-    background-image: url('/images/blog-img2.png');
+    background-image: url('../images/blog-img2.png');
 }
 
 .section-blog__image-3 {
-    background-image: url('/images/blog-img3.png');
+    background-image: url('../images/blog-img3.png');
 }
 
 .section-blog__post-date {
